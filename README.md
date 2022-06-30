@@ -19,14 +19,14 @@ It is a food delivery app developed with Flutter and Dart
 ## ScreenShots 🖼️
 
 <div align='center'>
-<img height="350px" src="Screenshot_1656590882](https://user-images.githubusercontent.com/38363762/176673916-219b9caf-1894-4f6f-afea-c7f45ec93a5b.png">
- <img height="350px" src="Screenshot_1656590889](https://user-images.githubusercontent.com/38363762/176674009-127212dd-e8ca-4ad8-b4ad-e4c6dc29f111.png">
+<img height="350px" src="https://user-images.githubusercontent.com/38363762/176674568-19e74c68-0e71-46dc-9976-47d5674e0c75.png">
+ <img height="350px" src="https://user-images.githubusercontent.com/38363762/176674607-1a5dbe27-f953-453c-91a5-fb46dd650d92.png">
 <hr/>
 </div>
 
 <div align='center'>
-<img height="350px" src="Screenshot_1656590896](https://user-images.githubusercontent.com/38363762/176674050-fa6d42f2-9a4d-43e5-96fa-a2aa339c3452.png">
- <img height="350px" src="https://user-images.githubusercontent.com/38363762/157958068-34a564c8-b9db-40aa-a1b0-71e8c18fd88f.png">
+<img height="350px" src="https://user-images.githubusercontent.com/38363762/176674642-ead7e5d5-f6e4-443e-a092-8f10fc47d21c.png">
+ <img height="350px" src="https://user-images.githubusercontent.com/38363762/176674656-70b7bc95-7139-4f9f-9de6-47e19f8bede3.png">
 <hr/>
 </div>
 
